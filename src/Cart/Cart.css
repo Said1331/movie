@@ -1,0 +1,40 @@
+.cart{
+    border: 2px solid #176687;
+    width: 30%;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.films{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    margin: 10px 0 10px 70px;
+}
+.type{
+    color: #176687;
+    font-size: 22px;
+}
+.title{
+    color: #176687;
+    font-size: 22px;
+}
+.year{
+    color: #176687;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.sec-btn{
+    width: 210px;
+    height: 30px;
+    border: none;
+    background: #176687;
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+}
+.poster{
+    height: 451px;
+    width: 300px;
+}
